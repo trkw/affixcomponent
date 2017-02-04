@@ -1,7 +1,7 @@
 
 # affixcomponent
 
-> affix menu | affix sidebar | affix component | affix navbar 
+affix menu | affix sidebar | affix component | affix navbar 
 
 **html:**
 
