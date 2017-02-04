@@ -31,4 +31,11 @@ data-min-screen-size        | number   | auto (992)
 **Requirements:**
 * jQuery
 
+**CDN:**
+```
+[production] https://cdn.rawgit.com/TigranSimonyan/affixcomponent/879dcdcb/affixcomponent.min.js
+[development] https://rawgit.com/TigranSimonyan/affixcomponent/master/affixcomponent.min.js
+```
+
+
 **affixcomponent.js is supported in all modern browsers**
