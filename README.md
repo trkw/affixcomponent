@@ -8,7 +8,7 @@
 ```html
 <div  data-affix="init"
       data-offset-top="auto"
-      data-offset-bottom="auto"
+      data-offset-bottom="50"
       data-offset-top-element="auto"
       data-offset-bottom-element=".footer"
       data-min-screen-size="auto"
