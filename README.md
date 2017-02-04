@@ -32,7 +32,7 @@ data-mobile-screen-width    | number   | auto (992)
 **css:**
 
 ```css
-.my-affix-element{
+.my-element{
 
 }
 
