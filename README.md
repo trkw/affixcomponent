@@ -1,7 +1,7 @@
 
 # affixcomponent
 
-affix menu | affix sidebar | affix component | affix navbar 
+**affixcomponent.js is supported in all modern browsers**
 
 **html:**
 
@@ -52,4 +52,3 @@ data-mobile-screen-width    | number   | auto (992)
 ```
 
 
-**affixcomponent.js is supported in all modern browsers**
