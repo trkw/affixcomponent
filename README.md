@@ -3,16 +3,22 @@
 
 **affixcomponent.js is supported in all modern browsers**
 
+[Demo] https://tigransimonyan.github.io/affixcomponent/
+
 **html:**
 
 ```html
 <div  class="my-element"
+
       data-affix="init"
-      data-offset-top="auto"
-      data-offset-bottom="50"
-      data-offset-top-element="auto"
-      data-offset-bottom-element=".footer"
       data-mobile-screen-width="auto"
+      
+      data-offset-top="auto"
+      data-offset-top-from="auto"
+      
+      data-offset-bottom="50"
+      data-offset-bottom-from=".footer"
+      
 >
 
 .... content ....
@@ -23,9 +29,9 @@
 ```html
 data-affix                  | init
 data-offset-top             | number   | auto (parent container top) 
-data-offset-bottom          | number   | auto (100)        
-data-offset-top-element     | selector | auto (none)  
-data-offset-bottom-element  | selector | auto (none)  
+data-offset-top-from        | selector | auto (none)  
+data-offset-bottom          | number   | auto (100)  
+data-offset-bottom-from     | selector | auto (none)  
 data-mobile-screen-width    | number   | auto (992)            
 ```
 
