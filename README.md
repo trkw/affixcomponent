@@ -9,16 +9,12 @@
 
 ```html
 <div  class="my-element"
-
       data-affix="init"
       data-mobile-screen-width="auto"
-      
       data-offset-top="auto"
       data-offset-top-from="auto"
-      
       data-offset-bottom="50"
       data-offset-bottom-from=".footer"
-      
 >
 
 .... content ....
